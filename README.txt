@@ -8,3 +8,6 @@ I'll add one more line ok...
 
 
 One more line. wtf
+
+
+This is a line added from git-practice-extra-branch
